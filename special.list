@@ -3,6 +3,10 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.hk
 DOMAIN-SUFFIX,google.hk
 
+# porn
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,xvideos.com
+
 
 # 论坛
 DOMAIN-SUFFIX,nodeseek.com
