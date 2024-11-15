@@ -1,6 +1,9 @@
 # shared_chat
 DOMAIN-SUFFIX,shared.oaifree.com
+DOMAIN-SUFFIX,googleapis.com
 
 
-# linux.do
-DOMAIN-SUFFIX,linux.do
+# bing
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.hk
+DOMAIN-SUFFIX,bing.net	
