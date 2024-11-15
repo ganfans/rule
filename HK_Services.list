@@ -7,3 +7,8 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.hk
 DOMAIN-SUFFIX,bing.net	
+
+# Forum
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,nodeseek.com
